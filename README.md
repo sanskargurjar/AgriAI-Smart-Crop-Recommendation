@@ -22,10 +22,8 @@ streamlit run crop_recommendation_app.py
 ## 📸 Screenshots
 
 ### Home Page
-![Home](screenshots/Ui1.jpeg)
+![Home](Screenshot 2026-01-15 193431.png)
 
 ### Crop Recommendation Output
 ![Output](screenshots/Ui2.jpeg)
 
-### Confusion Matrix
-![Confusion Matrix](screenshots/matrix.jpeg)
