@@ -15,15 +15,16 @@ AgriAI is a Machine Learning-based application that helps farmers choose suitabl
 - Streamlit
 - Pandas, NumPy
 
-## How to Run
-```bash
-streamlit run crop_recommendation_app.py
-
 ## 📸 Screenshots
 
 ### Home Page
 ![Home](Screenshot 2026-01-15 193431.png)
 
 ### Crop Recommendation Output
-![Output](screenshots/Ui2.jpeg)
+![Output](Screenshot 2026-01-15 193527.png)
+
+
+## How to Run
+```bash
+streamlit run crop_recommendation_app.py
 
