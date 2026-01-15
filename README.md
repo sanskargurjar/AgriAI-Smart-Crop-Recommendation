@@ -50,10 +50,10 @@ The system recommends suitable crops based on **State, Season, and Cultivation A
 ## 📸 Screenshots
 
 ### Home Page
-![Home Page](screenshots/Ui1.jpeg)
+![Home Page](screenshots/Ui1.png)
 
 ### Crop Recommendation Output
-![Output Page](screenshots/Ui2.jpeg)
+![Output Page](screenshots/Ui2.png)
 
 
 ---
