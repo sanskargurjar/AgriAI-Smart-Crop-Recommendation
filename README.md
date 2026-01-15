@@ -47,6 +47,11 @@ The system recommends suitable crops based on **State, Season, and Cultivation A
 
 ---
 
+## 🌐 Live Demo
+
+🚀 Try the live application here:  
+👉 **https://agriai-smart-crop-recommendation.streamlit.app/**
+
 ## 📸 Screenshots
 
 ### Home Page
